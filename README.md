@@ -1,3 +1,3 @@
 # movie-analyst-ansible
 
-Ansible deployment for Movie Analyst proyect
+Ansible SCM for Movie Analyst proyect
